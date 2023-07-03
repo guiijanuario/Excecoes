@@ -161,8 +161,8 @@ COTACAO_LIBRA_ESTERLINA - 7.50
 
 ## 🗂️ Exercícios Exceções
 
-1. [Exercicio1](https://github.com/guiijanuario/Excecoes/tree/main/src/main/java/org/example/Exercicio1) → Exercicio 1
-2. [Exercicio2](https://github.com/guiijanuario/Excecoes/tree/main/src/main/java/org/example/Exercicio2) → Pacote referente ao ex02
+1. [Exercicio1](https://github.com/guiijanuario/Excecoes/tree/main/src/main/java/org/example/Exercicio1) → Exercício 1
+2. [Exercicio2](https://github.com/guiijanuario/Excecoes/tree/main/src/main/java/org/example/Exercicio2) → Exercício 2
 
 ---
 
